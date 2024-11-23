@@ -1,9 +1,0 @@
-10 mov x 10
-20 add x 1
-25 out x
-30 sub x 5
-35 out x
-40 mul x 3
-45 out x
-50 div x 2
-55 out x
